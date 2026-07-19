@@ -91,15 +91,14 @@ My current research interests include:
 
 ---
 
-# 📂 Portfolio Projects
+## 📂 Portfolio Projects
 
 | No. | Project | Status |
-|-----|---------|--------|
+|-----|----------------------------------------|--------|
 | 01 | Nmap Network Scanning Basics | ✅ Completed |
+| 02 | Nmap Advanced Scanning | ✅ Completed |
 
 More practical Red Teaming projects will be added as I continue learning.
-
----
 
 # 📚 Currently Learning
 
