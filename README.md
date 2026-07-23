@@ -90,17 +90,14 @@ My current research interests include:
 - Service Enumeration
 
 ---
-
 ## 📂 Portfolio Projects
 
 | No. | Project | Status |
-|-----|---------|--------|
+|-----|-----------------------------------------------|--------|
 | 01 | Nmap Network Scanning Basics | ✅ Completed |
 | 02 | Nmap Advanced Scanning | ✅ Completed |
 | 03 | Wireshark Packet Analysis | ✅ Completed |
-
-More practical Red Teaming projects will be added as I continue learning.
-
+| 04 | Information Gathering using Linux Networking Tools | ✅ Completed |
 # 📚 Currently Learning
 
 I am currently focusing on:
